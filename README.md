@@ -71,8 +71,8 @@ multi-agent-sacr-simulation/
 │   ├── sacr.py                  # SACR protocol
 │   └── llm_planning_sacr.py     # LLM-enhanced SACR
 ├── results/
-│   ├── sonnet/                  # Sonnet 4 results (S-*.json)
-│   └── gemini/                  # Gemini 2.5 Pro results (G-*.json)
+│   ├── sonnet_4_thinking/               
+│   └── gemini_2.5_pro/           
 └── figures/                     # Visualizations (PNG)
 ```
 
